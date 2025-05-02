@@ -1,11 +1,12 @@
 # Final-Project
 Data Wrangling Project
 
+Plugin	README
+Dropbox	[plugins/dropbox/README.md]
+GitHub	[plugins/github/README.md]
+Google Drive	[plugins/googledrive/README.md]
+OneDrive	[plugins/onedrive/README.md]
+Medium	[plugins/medium/README.md]
+Google Analytics	[plugins/googleanalytics/README.md]
 
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
